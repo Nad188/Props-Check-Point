@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-image: url(https://www.desktopbackground.org/download/800x600/2014/05/27/768994_download-wallpapers-2560x1024-computer-keyboard-mouse-laptop_2560x1024_h.jpg);
+  background-size: cover;
+  margin: 10px 100px;
+}
